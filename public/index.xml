@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Phucked Up Hackery</title>
+    <link>http://phrackery.github.io/</link>
+    <description>Recent content on Phucked Up Hackery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2023 20:52:35 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 20:52:35 -0400</lastBuildDate><atom:link href="http://phrackery.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>http://example.org/posts/example/</link>
+      <link>http://phrackery.github.io/posts/example/</link>
       <pubDate>Sat, 06 May 2023 20:52:35 -0400</pubDate>
       
-      <guid>http://example.org/posts/example/</guid>
+      <guid>http://phrackery.github.io/posts/example/</guid>
       <description>hello darkness my old buddy. I&amp;rsquo;ve come to speak with you again.
 you created this file in the blog top level folder using the commnad
 hugo new posts/example.md then you edited it with helix.
