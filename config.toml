@@ -1,4 +1,46 @@
 baseURL = 'http://phrackery.github.io/'
 languageCode = 'en-us'
-title = 'Phrackery'
+title = 'Phucked Up Hackery'
 theme = 'ananke'
+
+SectionPagesMenu = 'main'
+Paginate = 20
+enableRobotsTXT = true
+enableGitInfo = false
+enableEmoji = true
+
+[author]
+  author = "Phrackery"
+  email  = "support@phrackery.com"
+  link   = "phrackery.com"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.6
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  fingerprint = ""
+  dateFormat = "1989-01-04"
+  images = ["/logo.png"]
+  favicon = ""
+  site_logo = ""
+  description = "Totally MADD (Malware Analysis Day Dreamer)"
+  recent_posts_number = 4
+  read_more_copy = "Read More About This Post"
+
+  [params.anake_socials]
+    name = "twitter"
+    url  = "https://twitter.com/phrackery"
+
+[[params.header]]
+  desktopMode = "fixed"
+  mobileMode = "auto"
+
+[[params.header.title]]
+  logo = ""
+  name = "Phrackery"
+  pre = ""
+  post = ""
+  typeit = true

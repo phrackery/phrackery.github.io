@@ -1,7 +1,8 @@
 ---
 title: "Example"
 date: 2023-05-06T20:52:35-04:00
-draft: false
+draft: true
+tags: ["Learning Ropes"]
 ---
 
 hello darkness my old buddy. I've come to speak with you again.

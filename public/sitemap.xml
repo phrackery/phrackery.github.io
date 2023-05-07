@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://phrackery.github.io/posts/example/</loc>
-    <lastmod>2023-05-06T20:52:35-04:00</lastmod>
+    <loc>http://phrackery.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://phrackery.github.io/</loc>
-    <lastmod>2023-05-06T20:52:35-04:00</lastmod>
+    <loc>http://phrackery.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://phrackery.github.io/posts/</loc>
-    <lastmod>2023-05-06T20:52:35-04:00</lastmod>
+    <loc>http://phrackery.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
-    <loc>https://phrackery.github.io/categories/</loc>
-  </url><url>
-    <loc>https://phrackery.github.io/tags/</loc>
+    <loc>http://phrackery.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
