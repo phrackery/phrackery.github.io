@@ -1,0 +1,6 @@
+[book]
+authors = ["Phrackery"]
+language = "en"
+multilingual = false
+src = "src"
+title = "phrackery"
