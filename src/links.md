@@ -2,9 +2,7 @@
 
 My name is phrackery
 
-I reserach Phucked Up Hackery
-
-Langauges are cool too. 
+I do Phucked Up Hackery. 
 
 [X](http://www.x.com/phrackery)
 
